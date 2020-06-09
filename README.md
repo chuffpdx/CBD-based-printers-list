@@ -4,3 +4,8 @@
 - Mars, Elegoo
 - Orbeat, Kelant
 - Photon Classic, Anycubic
+- CREALITY LD-002R
+- Phrozen Shuffle Lite
+- Phrozen Shuffle 4K
+- Phrozen Sonic
+- Phrozen Transform
